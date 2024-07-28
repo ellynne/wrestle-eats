@@ -21,4 +21,12 @@
  * For more information about generating, finding, or using project config
  * objects, visit https://support.google.com/firebase/answer/7015592.
 */
-export const projectConfig = {}
+export const projectConfig = {
+    apiKey: "AIzaSyBmI4wkWy62qb7BRTTVITVfpVNGBGdoKl4",
+  authDomain: "wrestlereats.firebaseapp.com",
+  projectId: "wrestlereats",
+  storageBucket: "wrestlereats.appspot.com",
+  messagingSenderId: "4203950727",
+  appId: "1:4203950727:web:178f9b2c49f53f5423be22",
+  measurementId: "G-XMWVPWF19E"
+}
